@@ -141,7 +141,7 @@ time
 %p  am/pm
 "
 
-strptime(x= "11/21 2025", format = "%m%d %Y")
+strptime(x= "11/21 2025", format = "%m/%d %Y")
 
 timed <- strptime(x= "11/21-2025", format = "%m%d-%Y")
 
