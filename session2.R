@@ -153,7 +153,6 @@ solarSystem[solarSystem[,"name"]=="mars","rotation"]
 #chizayi ke az list: 
 solarSystem$name[1]
 
-solarSystem[solarSystem$name=="mars"]
 
 subset(x = mtcars, cyl == 4 | cyl==6)
 
